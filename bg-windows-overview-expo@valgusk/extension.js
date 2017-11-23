@@ -42,7 +42,7 @@ DesktopBackgroundClone.prototype = {
   },
 
   onDestroy: function() {
-    this.disconnectAll();
+    // this.disconnectAll();
   },
 };
 
