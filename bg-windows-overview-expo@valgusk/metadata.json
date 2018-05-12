@@ -1,5 +1,5 @@
 {
-    "cinnamon-version": [ "3.6" ],
+    "cinnamon-version": [ "3.8" ],
     "uuid": "bg-windows-overview-expo@valgusk",
     "name": "Background Windows support",
     "description": "Show windows with Meta.WindowType.DESKTOP in overview and expo 1"
